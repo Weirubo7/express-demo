@@ -35,7 +35,7 @@ app.get('/ab*cd', function(req, res) {
  
 var server = app.listen(8081, function () { 
  
-  // console.log("express demo");
+  console.log("express demo");
  
 })
 
